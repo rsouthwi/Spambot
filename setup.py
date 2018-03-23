@@ -17,6 +17,7 @@ setup(
     ],
     platforms='any',
     install_requires=[
+        "slacker"
     ],
     use_scm_version=True,
     skip_upload_docs=True,
